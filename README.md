@@ -1,4 +1,4 @@
-# Youtube-ETL-Project-
+# Youtube-ETL-Project
 Extract raw youtube video data and then get useful insights from it
 
 Used the below architecture to complete the project
