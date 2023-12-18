@@ -5,7 +5,7 @@ Used the below architecture to complete the project
 ![image](https://github.com/ankitgupta14011998/Youtube-ETL-Project-/assets/32798626/a7b77613-9312-47c0-8d4e-9c9febef4c11)
 
 Video Links
-1: https://youtu.be/yZKJFKu49Dk?si=0SB_4hEzyZD3f4_H
+1: https://youtu.be/yZKJFKu49Dk?si=0SB_4hEzyZD3f4_H \n
 
 2: https://www.youtube.com/watch?v=qFaaKme5eDE&list=PLBJe2dFI4sguF2nU6Z3Od7BX8eALZN3mU&index=2
 
@@ -26,5 +26,8 @@ Step 2: Data processing
 * For statistics_reference_data also we can first use crawler to generate tables and query using Athena.
 * We can create an **AWS ETL job** over these reference_data to perform any necessary pre-processing on the CSV files and created cleansed table.
 * To get the data for analytics we can apply our business logic(In our case we have done inner join on cleansed reference_data and cleansed data on category_id. To automate this process we have used AWS ETL job and stored our final data in S3 bucket and also created cleaned table.
+
+Step 3: Data visualization
+
 * This data can further be used in **Quicksight** for Data reporting and visualization.
 
