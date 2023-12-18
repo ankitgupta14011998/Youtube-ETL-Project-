@@ -14,7 +14,9 @@ https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbWN
 
 Step 1: Data ingestion
 
-* Used **aws CLI** to upload raw data into **S3 buckets**. We have 2 types of data statistics_reference_data.json and statistics_data.csv for various regions.
+* Used **aws CLI** to upload raw data into **S3 buckets**.
+* use the Access_key and Secret_Key from IAM user to connect using CLI.
+* We have 2 types of data statistics_reference_data.json and statistics_data.csv for various regions.
 * create necessary users , roles and permission using **AWS IAM**
 
 Step 2: Data processing 
