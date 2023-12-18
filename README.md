@@ -6,6 +6,7 @@ Used the below architecture to complete the project
 
 Video Links
 1: https://youtu.be/yZKJFKu49Dk?si=0SB_4hEzyZD3f4_H
+
 2: https://www.youtube.com/watch?v=qFaaKme5eDE&list=PLBJe2dFI4sguF2nU6Z3Od7BX8eALZN3mU&index=2
 
 Kaggle data source link:
